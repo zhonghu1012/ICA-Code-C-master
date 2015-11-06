@@ -1,0 +1,11 @@
+Zhong Hu 
+__________________
+ICA Progress
+
+switch matrix_manipulation.h with the shared library
+
+finishing nnclassFn.c
+
+ICA.c
+
+runicaAux.c
